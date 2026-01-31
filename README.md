@@ -37,7 +37,7 @@ npm install
 ### Running Tests
 
 ```
-npx playwright test
+npx playwright test tests.spec.ts
 ```
 
 ### Viewing Reports
